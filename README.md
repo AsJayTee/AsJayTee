@@ -23,7 +23,7 @@ I'm a 2nd-year Data Science student at NUS, minoring in Computer Science. Passio
 
 ## 🤝 Let's Collaborate!
 - 💡 Got a cool project? Let's build something together.
-- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/siahjinthau) or [Discord](https://discord.gg/asjaytee)!
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/siahjinthau) or [Discord](https://discordapp.com/users/asjaytee)!
 - 🚀 Featured Projects:
 
   
