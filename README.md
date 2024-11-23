@@ -1,16 +1,9 @@
-## Hi there 👋
+# Hi there 👋
 
-# 💫 About Me:
-I'm a 2nd-year Data Science student at NUS, minoring in Computer Science. Passionate about AI, I aim to explore its transformative potential through fun and innovative projects! Feel free to reach out to me on:
+## 💫 About Me:
+I'm a 2nd-year Data Science student at NUS, minoring in Computer Science. Passionate about AI, I aim to explore its transformative potential through fun and innovative projects!
 
-<a href="https://www.linkedin.com/in/siahjinthau">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" width="135" height="35" alt="LinkedIn">
-</a>
-<a href="https://discord.gg/asjaytee">
-  <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" width="120" height="35" alt="Discord">
-</a>
-
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
@@ -27,3 +20,11 @@ I'm a 2nd-year Data Science student at NUS, minoring in Computer Science. Passio
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+## 🤝 Let's Collaborate!
+- 💡 Got a cool project? Let's build something together.
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/siahjinthau) or [Discord](https://discord.gg/asjaytee)!
+- 🚀 Featured Projects:
+
+  
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=asjaytee&repo=PB-Chatbot&theme=tokyonight)
