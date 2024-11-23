@@ -27,4 +27,4 @@ I'm a 2nd-year Data Science student at NUS, minoring in Computer Science. Passio
 - 🚀 Featured Projects:
 
   
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=asjaytee&repo=PB-Chatbot&theme=tokyonight)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=asjaytee&repo=PB-Chatbot&theme=dark)](https://github.com/AsJayTee/PB-Chatbot)
