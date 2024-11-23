@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## 💫 About Me:
-I'm a 2nd-year Data Science student at NUS, minoring in Computer Science. Passionate about AI, I aim to explore its transformative potential through fun and innovative projects!
+I'm Jin, a 2nd-year Data Science student at NUS minoring in Computer Science. Passionate about AI, I aim to explore its transformative potential through fun and innovative projects!
 
 ## 💻 Tech Stack:
 
