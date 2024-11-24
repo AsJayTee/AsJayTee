@@ -33,7 +33,3 @@ I'm Jin, a 2nd-year undergrad at NUS studying Data Science with a minor in CS. P
 
 ## 📊 Github Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AsJayTee&theme=dark&hide_border=false)<br/>
-
----
-[![](https://visitcount.itsvg.in/api?id=AsJayTee&icon=0&color=0)](https://visitcount.itsvg.in)
-
