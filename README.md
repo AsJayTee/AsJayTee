@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## 💫 About Me:
-I'm Jin, a 2nd-year Data Science student at NUS minoring in Computer Science. Passionate about AI, I aim to explore its transformative potential through fun and innovative projects!
+I'm Jin, a 2nd-year undergrad at NUS studying Data Science with a minor in CS. Passionate about AI, I aim to explore its transformative potential through fun and innovative projects!
 
 ## 💻 Tech Stack:
 
@@ -29,5 +29,11 @@ I'm Jin, a 2nd-year Data Science student at NUS minoring in Computer Science. Pa
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/siahjinthau) or [Discord](https://discordapp.com/users/asjaytee)!
 - 🚀 Featured Projects:
 
-  
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=asjaytee&repo=PB-Chatbot&theme=dark)](https://github.com/AsJayTee/PB-Chatbot)
+
+## 📊 Github Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=AsJayTee&theme=dark&hide_border=false)<br/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=AsJayTee&icon=0&color=0)](https://visitcount.itsvg.in)
+
