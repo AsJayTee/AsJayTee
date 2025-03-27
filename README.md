@@ -81,6 +81,9 @@ I'm always excited to work on ambitious projects and explore new technologies. I
 ![Typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Three.js](https://img.shields.io/badge/three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![BigQuery](https://img.shields.io/badge/bigquery-669DF6.svg?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongo%20db-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![NGINX](https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
 ---
 
