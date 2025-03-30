@@ -84,6 +84,7 @@ I'm always excited to work on ambitious projects and explore new technologies. I
 ![BigQuery](https://img.shields.io/badge/bigquery-669DF6.svg?style=for-the-badge&logo=googlebigquery&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongo%20db-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![NGINX](https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ---
 
