@@ -29,9 +29,9 @@ I'm always excited to work on ambitious projects and explore new technologies. I
 ### 📈 Data Analysis & Visualization
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Matplotlib](https://custom-icon-badges.demolab.com/badge/matplotlib-F7F7F7.svg?style=for-the-badge&logo=matplotlib)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-3766C4?style=for-the-badge&logo=Tableau&logoColor=white)
+![Tableau](https://custom-icon-badges.demolab.com/badge/tableau-3766C4.svg?style=for-the-badge&logo=tableau)
 ![Tidyverse](https://img.shields.io/badge/tidyverse-1A162D?style=for-the-badge&logo=tidyverse&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
@@ -66,7 +66,8 @@ I'm always excited to work on ambitious projects and explore new technologies. I
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/bigquery-669DF6.svg?style=for-the-badge&logo=googlebigquery&logoColor=white)
-![Fivetran]([https://img.shields.io/badge/fivetran-F7F7F7.svg?style=for-the-badge&logoColor=white&logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDI0LjEuMCwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IgoJIHZpZXdCb3g9IjAgMCA2NCA2NCIgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBzdHlsZT0iZW5hYmxlLWJhY2tncm91bmQ6bmV3IDAgMCA2NCA2NDsiIHhtbDpzcGFjZT0icHJlc2VydmUiPgo8c3R5bGUgdHlwZT0idGV4dC9jc3MiPgoJLnN0MHtmaWxsOiMwMDczRkY7fQo8L3N0eWxlPgo8Zz4KCTxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik00MC44LDMyaDYuNGMwLjUsMCwxLTAuNCwxLTFjMC0wLjEsMC0wLjMtMC4xLTAuNEwzNy4xLDAuNkMzNi45LDAuMywzNi42LDAsMzYuMiwwaC02LjRjLTAuNSwwLTEsMC40LTEsMQoJCWMwLDAuMSwwLDAuMiwwLjEsMC4zbDExLjEsMzAuMkM0MC4xLDMxLjgsNDAuNCwzMiw0MC44LDMyeiIvPgoJPHBhdGggY2xhc3M9InN0MCIgZD0iTTM5LjcsNjRoNi40YzAuNSwwLDEtMC40LDEtMWMwLTAuMSwwLTAuMi0wLjEtMC4zTDI0LjIsMC42QzI0LjEsMC4zLDIzLjcsMCwyMy4zLDBoLTYuNGMtMC41LDAtMSwwLjQtMSwxCgkJYzAsMC4xLDAsMC4yLDAuMSwwLjNsMjIuOCw2Mi4xQzM4LjksNjMuOCwzOS4zLDY0LDM5LjcsNjR6Ii8+Cgk8cGF0aCBjbGFzcz0ic3QwIiBkPSJNMjcsNjRoNi40YzAuNSwwLDAuOS0wLjQsMS0wLjljMC0wLjEsMC0wLjMtMC4xLTAuNEwyMy4yLDMyLjZjLTAuMS0wLjQtMC41LTAuNi0wLjktMC42aC02LjUKCQljLTAuNSwwLTAuOSwwLjUtMC45LDFjMCwwLjEsMCwwLjIsMC4xLDAuM2wxMSwzMC4xQzI2LjMsNjMuOCwyNi42LDY0LDI3LDY0eiIvPgoJPHBhdGggY2xhc3M9InN0MCIgZD0iTTQxLjYsMS4zbDUuMiwxNC4xYzAuMSwwLjQsMC41LDAuNiwwLjksMC42SDU0YzAuNSwwLDEtMC40LDEtMWMwLTAuMSwwLTAuMi0wLjEtMC4zTDQ5LjcsMC42CgkJQzQ5LjYsMC4zLDQ5LjMsMCw0OC45LDBoLTYuNGMtMC41LDAtMSwwLjQtMSwxQzQxLjUsMS4xLDQxLjUsMS4yLDQxLjYsMS4zeiIvPgoJPHBhdGggY2xhc3M9InN0MCIgZD0iTTE1LjIsNjRoNi40YzAuNSwwLDEtMC40LDEtMWMwLTAuMSwwLTAuMi0wLjEtMC4zbC01LjItMTQuMWMtMC4xLTAuNC0wLjUtMC42LTAuOS0wLjZIMTBjLTAuNSwwLTEsMC40LTEsMQoJCWMwLDAuMSwwLDAuMiwwLjEsMC4zbDUuMiwxNC4xQzE0LjQsNjMuOCwxNC44LDY0LDE1LjIsNjR6Ii8+CjwvZz4KPC9zdmc+Cg==])
+![Fivetran](https://custom-icon-badges.demolab.com/badge/fivetran-F7F7F7.svg?style=for-the-badge&logoColor=137AFA&logo=fivetran)
+
 ### ☁️ Cloud & Deployment
 ![AWS](https://img.shields.io/badge/Amazon_Web_Services-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
