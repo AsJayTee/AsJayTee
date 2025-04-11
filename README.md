@@ -60,21 +60,22 @@ I'm always excited to work on ambitious projects and explore new technologies. I
 ![Pydantic](https://img.shields.io/badge/pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
-### 💾 Databases & Storage
+### 💾 Data Storage & Management
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-FFFFFF.svg?style=for-the-badge&logo=postgresql&logoColor=black)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/bigquery-669DF6.svg?style=for-the-badge&logo=googlebigquery&logoColor=white)
-
+![Fivetran]([https://img.shields.io/badge/fivetran-F7F7F7.svg?style=for-the-badge&logoColor=white&logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDI0LjEuMCwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IgoJIHZpZXdCb3g9IjAgMCA2NCA2NCIgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBzdHlsZT0iZW5hYmxlLWJhY2tncm91bmQ6bmV3IDAgMCA2NCA2NDsiIHhtbDpzcGFjZT0icHJlc2VydmUiPgo8c3R5bGUgdHlwZT0idGV4dC9jc3MiPgoJLnN0MHtmaWxsOiMwMDczRkY7fQo8L3N0eWxlPgo8Zz4KCTxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik00MC44LDMyaDYuNGMwLjUsMCwxLTAuNCwxLTFjMC0wLjEsMC0wLjMtMC4xLTAuNEwzNy4xLDAuNkMzNi45LDAuMywzNi42LDAsMzYuMiwwaC02LjRjLTAuNSwwLTEsMC40LTEsMQoJCWMwLDAuMSwwLDAuMiwwLjEsMC4zbDExLjEsMzAuMkM0MC4xLDMxLjgsNDAuNCwzMiw0MC44LDMyeiIvPgoJPHBhdGggY2xhc3M9InN0MCIgZD0iTTM5LjcsNjRoNi40YzAuNSwwLDEtMC40LDEtMWMwLTAuMSwwLTAuMi0wLjEtMC4zTDI0LjIsMC42QzI0LjEsMC4zLDIzLjcsMCwyMy4zLDBoLTYuNGMtMC41LDAtMSwwLjQtMSwxCgkJYzAsMC4xLDAsMC4yLDAuMSwwLjNsMjIuOCw2Mi4xQzM4LjksNjMuOCwzOS4zLDY0LDM5LjcsNjR6Ii8+Cgk8cGF0aCBjbGFzcz0ic3QwIiBkPSJNMjcsNjRoNi40YzAuNSwwLDAuOS0wLjQsMS0wLjljMC0wLjEsMC0wLjMtMC4xLTAuNEwyMy4yLDMyLjZjLTAuMS0wLjQtMC41LTAuNi0wLjktMC42aC02LjUKCQljLTAuNSwwLTAuOSwwLjUtMC45LDFjMCwwLjEsMCwwLjIsMC4xLDAuM2wxMSwzMC4xQzI2LjMsNjMuOCwyNi42LDY0LDI3LDY0eiIvPgoJPHBhdGggY2xhc3M9InN0MCIgZD0iTTQxLjYsMS4zbDUuMiwxNC4xYzAuMSwwLjQsMC41LDAuNiwwLjksMC42SDU0YzAuNSwwLDEtMC40LDEtMWMwLTAuMSwwLTAuMi0wLjEtMC4zTDQ5LjcsMC42CgkJQzQ5LjYsMC4zLDQ5LjMsMCw0OC45LDBoLTYuNGMtMC41LDAtMSwwLjQtMSwxQzQxLjUsMS4xLDQxLjUsMS4yLDQxLjYsMS4zeiIvPgoJPHBhdGggY2xhc3M9InN0MCIgZD0iTTE1LjIsNjRoNi40YzAuNSwwLDEtMC40LDEtMWMwLTAuMSwwLTAuMi0wLjEtMC4zbC01LjItMTQuMWMtMC4xLTAuNC0wLjUtMC42LTAuOS0wLjZIMTBjLTAuNSwwLTEsMC40LTEsMQoJCWMwLDAuMSwwLDAuMiwwLjEsMC4zbDUuMiwxNC4xQzE0LjQsNjMuOCwxNC44LDY0LDE1LjIsNjR6Ii8+CjwvZz4KPC9zdmc+Cg==])
 ### ☁️ Cloud & Deployment
 ![AWS](https://img.shields.io/badge/Amazon_Web_Services-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Google Cloud Platform](https://img.shields.io/badge/google%20cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![GoDaddy](https://img.shields.io/badge/godaddy-1BDBDB?style=for-the-badge&logo=godaddy&logoColor=white)
-![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![NGINX](https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![GoDaddy](https://img.shields.io/badge/godaddy-1BDBDB?style=for-the-badge&logo=godaddy&logoColor=white)
+![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white)
 
 ### 🗂️ Miscellaneous
 ![Twilio](https://img.shields.io/badge/twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
@@ -85,7 +86,6 @@ I'm always excited to work on ambitious projects and explore new technologies. I
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongo%20db-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![NGINX](https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ---
