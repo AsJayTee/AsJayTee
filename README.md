@@ -70,7 +70,7 @@ I'm always excited to work on ambitious projects and explore new technologies. I
 
 ### ☁️ Cloud & Deployment
 ![AWS](https://img.shields.io/badge/Amazon_Web_Services-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure](https://custom-icon-badges.demolab.com/badge/Azure-F7F7F7.svg?style=for-the-badge&logo=azure1)
 ![Google Cloud Platform](https://img.shields.io/badge/google%20cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -81,7 +81,7 @@ I'm always excited to work on ambitious projects and explore new technologies. I
 ### 🗂️ Miscellaneous
 ![Twilio](https://img.shields.io/badge/twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white)
-![Front](https://img.shields.io/badge/Front-A857F1?style=for-the-badge&logoColor=white)
+![Front](https://custom-icon-badges.demolab.com/badge/FRONT-F7F7F7.svg?style=for-the-badge&logo=front)
 
 ### 🌱 Currently Learning
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
