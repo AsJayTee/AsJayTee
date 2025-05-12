@@ -11,7 +11,7 @@ I'm always excited to work on ambitious projects and explore new technologies. I
 
 - 💬 **Ask me about:** Data Science, Cloud Architecture, or anything about where code meets data
 - 📫 **Reach me at:** [LinkedIn](https://www.linkedin.com/in/siahjinthau) or [Discord](https://discordapp.com/users/asjaytee)
-- ⚡ **Fun fact:** I used to play chess casually! (1900 Elo)
+- ⚡ **Fun fact:** I used to play chess! (1900 Elo casual)
 
 ---
 
