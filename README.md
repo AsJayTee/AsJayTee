@@ -1,4 +1,4 @@
-# Siah Jin Thau 👨‍💻 | Data Science & AI Enthusiast &nbsp; &nbsp; [<img align="right" alt="GitHub" width="30px" src="https://img.icons8.com/fluent/48/000000/github.png" />](https://github.com/AsJayTee) [<img align="right" alt="Discord" width="30px" src="https://img.icons8.com/color/48/000000/discord-logo.png" />](https://discordapp.com/users/asjaytee) [<img align="right" alt="LinkedIn" width="30px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />](https://www.linkedin.com/in/siahjinthau)
+# Siah Jin Thau 👨‍💻 | Data Science & AI Enthusiast &nbsp; &nbsp; [<img align="right" alt="GitHub" width="30px" src="https://img.icons8.com/fluent/48/000000/mail.png" />](mailto:jinthauofficial@gmail.com) [<img align="right" alt="Discord" width="30px" src="https://img.icons8.com/color/48/000000/discord-logo.png" />](https://discordapp.com/users/asjaytee) [<img align="right" alt="LinkedIn" width="30px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />](https://www.linkedin.com/in/siahjinthau)
 
 
 ## About Me 🌟
@@ -11,7 +11,7 @@ I'm always excited to work on ambitious projects and explore new technologies. I
 
 - 💬 **Ask me about:** Data Science, Cloud Architecture, or anything about where code meets data
 - 📫 **Reach me at:** [LinkedIn](https://www.linkedin.com/in/siahjinthau) or [Discord](https://discordapp.com/users/asjaytee)
-- ⚡ **Fun fact:** I used to play chess! (1900 Elo casual)
+- ⚡ **Fun fact:** I used to play chess! (1900 Elo rapid)
 
 ---
 
