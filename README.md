@@ -10,7 +10,7 @@ I'm a 3rd-year undergraduate at the National University of Singapore (NUS), majo
 I'm always excited to work on ambitious projects and explore new technologies. If you're looking for a collaborator who brings enthusiasm, technical skills, and a data-driven approach to the table, let's connect!
 
 - 💬 **Ask me about:** Data Science, Cloud Architecture, or anything about where code meets data
-- 📫 **Reach me at:** [LinkedIn](https://www.linkedin.com/in/siahjinthau) or [Discord](https://discordapp.com/users/asjaytee)
+- 📫 **Reach me at:** [LinkedIn](https://www.linkedin.com/in/siahjinthau), [Discord](https://discordapp.com/users/asjaytee) or [Email](mailto:jinthauofficial@gmail.com)
 - ⚡ **Fun fact:** I used to play chess! (1900 Elo rapid)
 
 ---
