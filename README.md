@@ -95,5 +95,5 @@ I'm always excited to work on ambitious projects and explore new technologies. I
 
 ## 🚀 Featured Projects:
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=asjaytee&repo=Personal-Website&theme=tokyonight)](https://github.com/AsJayTee/Personal-Website)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=asjaytee&repo=Personal-Website&theme=tokyonight&v=1)](https://github.com/AsJayTee/Personal-Website)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=asjaytee&repo=PB-Chatbot&theme=tokyonight)](https://github.com/AsJayTee/PB-Chatbot)
