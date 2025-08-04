@@ -3,7 +3,7 @@
 
 ## About Me 🌟
 
-I'm a 3rd-year undergraduate at the National University of Singapore (NUS), majoring in Data Science with a minor in Computer Science. My passion lies in exploring the transformative potential of Artificial Intelligence through innovative projects that combine technical skills with practical applications.
+I'm a 3rd-year undergraduate at the National University of Singapore (NUS), majoring in Data Science with a 2nd major in Computer Science. My passion lies in exploring the transformative potential of Artificial Intelligence through innovative projects that combine technical skills with practical applications.
 
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
