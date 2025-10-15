@@ -47,6 +47,8 @@ I'm always excited to work on ambitious projects and explore new technologies. I
 ![Anthropic](https://img.shields.io/badge/Anthropic-F0EEE6?style=for-the-badge&logo=anthropic&logoColor=191919)
 ![Claude](https://img.shields.io/badge/claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/openai-412991?style=for-the-badge&logo=openai&logoColor=white)
+![ElevenLabs](https://custom-icon-badges.demolab.com/badge/ElevenLabs-FFFFFF?style=for-the-badge&logo=elevenlabs&logoColor=000000)
+![LM Studio](https://custom-icon-badges.demolab.com/badge/lm%20studio-5c38d1?style=for-the-badge&logo=lm-studio&logoColor=FFFFFF)
 
 ### 🌐 Web Development & APIs
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -74,6 +76,9 @@ I'm always excited to work on ambitious projects and explore new technologies. I
 ![AWS](https://custom-icon-badges.demolab.com/badge/Amazon_Web_Services-F7F7F7.svg?style=for-the-badge&logo=aws)
 ![Azure](https://custom-icon-badges.demolab.com/badge/Azure-F7F7F7.svg?style=for-the-badge&logo=azure1)
 ![Google Cloud Platform](https://img.shields.io/badge/google%20cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Lambda](https://custom-icon-badges.demolab.com/badge/Lambda-FFFFFF?style=for-the-badge&logo=lambda)
+![Spaceship](https://custom-icon-badges.demolab.com/badge/Spaceship-474eff?style=for-the-badge&logo=spaceship)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![NGINX](https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
