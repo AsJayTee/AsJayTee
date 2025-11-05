@@ -35,6 +35,7 @@ I'm always excited to work on ambitious projects and explore new technologies. I
 ![Tidyverse](https://img.shields.io/badge/tidyverse-1A162D?style=for-the-badge&logo=tidyverse&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+![DeepNote](https://custom-icon-badges.demolab.com/badge/deepnote-FFFFFF?style=for-the-badge&logo=deepnote)
 
 ### 🤖 AI & Machine Learning 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
